@@ -10,6 +10,7 @@
 #' @export
 #'
 #' @examples
+
 #'
 #' # Creates a large number
 #' gauss_decay(1,100)
