@@ -13,6 +13,7 @@ knitr::opts_chunk$set(
 ```
 
 # decayr
+[![Travis-CI Build Status](https://travis-ci.org/njtierney/decayr.svg?branch=master)](https://travis-ci.org/njtierney/decayr)[![Coverage Status](https://img.shields.io/codecov/c/github/njtierney/decayr/master.svg)](https://codecov.io/github/njtierney/decayr?branch=master)
 
 The goal of decayr is to demonstrate the use of a niche gaussian decay function, for the purposes of demonstrating how to use GitHub when making an R package.
 
@@ -39,3 +40,7 @@ gauss_decay(d_kj = 1,
             d_0 = 100)
 
 ```
+
+## Code of Conduct
+
+Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
